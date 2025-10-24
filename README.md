@@ -37,7 +37,6 @@ Choose your target platform:
 flutter run -d android # Android phone/tablet
 flutter run -d ios # iPhone/iPad
 flutter run -d chrome # Web
-flutter run -d android-tv # Android TV
 
 ## 🧩 Configuration
 
