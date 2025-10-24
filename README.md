@@ -16,8 +16,6 @@ A simple, single-page Flutter application that displays a looping background vid
 
 ## 🧰 Dependencies
 
-This project uses Flutter’s stable channel and the following core packages:
-
 video_player: ^2.9.1
 chewie: ^1.7.0
 
@@ -25,7 +23,7 @@ chewie: ^1.7.0
 
 ### 1. Clone the Repository
 
-git clone https://github.com/kingsley-amoke/video_overlay_app.git
+git clone https://github.com/kingsley-amoke/video_background_text_overlay.git
 cd video_overlay_app
 
 ### 2. Install Dependencies
@@ -47,9 +45,7 @@ flutter run -d android-tv # Android TV
 
 Make sure your video file (`sample.mp4`) is located in:
 
-```
 assets/videos/sample.mp4
-```
 
 Then confirm this entry in your `pubspec.yaml`:
 
